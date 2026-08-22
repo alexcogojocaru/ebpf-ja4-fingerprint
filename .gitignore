@@ -1,0 +1,5 @@
+build/
+bpf/vmlinux.h
+
+*.o
+ebpf_*.go
